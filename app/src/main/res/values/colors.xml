@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#90A4AE</color>
+    <color name="colorPrimaryDark">#607D8B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <!-- Background color for the numbers category -->
+    <color name="category_edm">#E57373</color>
+
+    <!-- Background color for the family members category -->
+    <color name="category_electronic">#81C784</color>
+
+    <!-- Background color for the colors category -->
+    <color name="category_trap">#4FC3F7</color>
+
+    <!-- Background color for the phrases category -->
+    <color name="category_dubstep">#FFF176</color>
+</resources>

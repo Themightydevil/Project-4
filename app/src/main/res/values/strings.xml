@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="intro">Select a category to preview Sample Music in it.</string>
+
+    <!-- Category list -->
+    <string name="edm">EDM</string>
+    <string name="electronic">Electronic</string>
+    <string name="trap">Trap</string>
+    <string name="dubstep">Dubstep</string>
+
+    <!-- Songs list -->
+    <string name="attracting_lies_song">Attracting Flies</string>
+    <string name="both_song">Both</string>
+    <string name="candy_shop_song">Candy Shop</string>
+    <string name="iconic_song">Iconic</string>
+    <string name="satisfaction_song">Satisfaction</string>
+    <string name="sidelines_song">Sidelines</string>
+    <string name="lose_yourself_song">Lose Yourself</string>
+    <string name="gold_love_song">Gold Love</string>
+
+    <!-- Artists list -->
+    <string name="attracting_lies_artist">AlunaGeorge</string>
+    <string name="both_artist">Drake</string>
+    <string name="candy_shop_artist">50 Cent</string>
+    <string name="iconic_artist">CONVEX</string>
+    <string name="satisfaction_artist">Benny Benassi</string>
+    <string name="sidelines_artist">blackbear x 4e</string>
+    <string name="lose_yourself_artist">Eminem</string>
+    <string name="gold_love_artist">Flux Pavilion</string>
+
+    <!-- Remixed by list -->
+    <string name="attracting_lies_remix">Baauer Remix</string>
+    <string name="both_remix">AFK x Savage Remix</string>
+    <string name="candy_shop_remix">BigJerr Trap Remix</string>
+    <string name="iconic_remix">Official Release</string>
+    <string name="satisfaction_remix">RL Grime Remix</string>
+    <string name="sidelines_remix">Ellusive Remix</string>
+    <string name="lose_yourself_remix">Offset Noize Remix</string>
+    <string name="gold_love_remix">LAXX Remix</string>
+
+
+</resources>
